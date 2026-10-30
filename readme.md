@@ -28,3 +28,4 @@ fix/correcao: branch dedicada a realizar ajuste, identificação e resolução d
 Histórico de versões: 
 v0.1.0 Versão inicial do portal
 v1.0.0 Portal Halloween completo
+link do portal atualizado: https://github.com/brunorosabrs/Trab_final
